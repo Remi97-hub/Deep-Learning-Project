@@ -1,4 +1,4 @@
-# 🥛 Milk Theft Detection from CCTV (Computer Vision)
+# Milk Theft Detection from CCTV (Computer Vision)
 
 ## Overview
 
@@ -57,7 +57,7 @@ This project focuses on **system design**, not just model training.
 * Results are not benchmark-level
 * Dataset is small and environment-specific
 
-The key contribution is the **end-to-end event detection pipeline**, not the scores.
+The key contribution is the end-to-end event detection pipeline, not the scores.
 
 ---
 
@@ -78,4 +78,4 @@ The key contribution is the **end-to-end event detection pipeline**, not the sco
 
 ---
 
-> *Practical AI is built, not just trained.*
+> Practical AI is built, not just trained.
